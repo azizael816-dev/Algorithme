@@ -4,7 +4,7 @@ let max = nombres[0];
 
 for (let i = 1; i < nombres.length; i++) {
     if (nombres[i] > max) {
-        max = nombres[i];
+        max = nombres[i]; 
     }
 }
 
